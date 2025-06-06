@@ -5,3 +5,7 @@
 /.vs
 /HTTPServerInDotnet/.vs/HTTPServerInDotnet
 /HTTPServerInDotnet/HTTPServerInDotnet/obj
+/CSharpFundamentals/.vs/CSharpFundamentals
+/CSharpFundamentals/CSharpFundamentals/obj
+/HTTPServerInDotnet/.vs/ProjectEvaluation
+/CSharpFundamentals/CSharpFundamentals/bin/Debug/net8.0
