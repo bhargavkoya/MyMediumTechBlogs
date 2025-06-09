@@ -1,0 +1,6 @@
+@DependencyInjectionInNETCore_HostAddress = http://localhost:5133
+
+GET {{DependencyInjectionInNETCore_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
