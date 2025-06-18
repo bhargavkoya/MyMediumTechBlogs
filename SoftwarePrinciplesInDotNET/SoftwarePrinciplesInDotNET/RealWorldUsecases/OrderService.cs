@@ -32,7 +32,6 @@ namespace SoftwarePrinciplesInDotNET.RealWorldUsecases
     {
         public bool Validate(Order order)
         {
-            //Validation logic
             return order != null && order.Items.Count > 0 && order.Customer != null;
         }
     }
