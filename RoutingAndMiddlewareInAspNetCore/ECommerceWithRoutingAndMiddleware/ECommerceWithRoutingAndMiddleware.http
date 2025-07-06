@@ -1,0 +1,6 @@
+@ECommerceWithRoutingAndMiddleware_HostAddress = http://localhost:5096
+
+GET {{ECommerceWithRoutingAndMiddleware_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

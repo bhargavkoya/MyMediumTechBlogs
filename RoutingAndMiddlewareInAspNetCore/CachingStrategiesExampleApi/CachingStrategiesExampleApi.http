@@ -1,0 +1,6 @@
+@CachingStrategiesExampleApi_HostAddress = http://localhost:5082
+
+GET {{CachingStrategiesExampleApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

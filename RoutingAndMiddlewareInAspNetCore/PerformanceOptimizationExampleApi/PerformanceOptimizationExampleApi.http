@@ -1,0 +1,6 @@
+@PerformanceOptimizationExampleApi_HostAddress = http://localhost:5124
+
+GET {{PerformanceOptimizationExampleApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

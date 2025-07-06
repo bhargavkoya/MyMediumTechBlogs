@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35521.163 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdvancedRoutingExamplesApi", "AdvancedRoutingExamplesApi\AdvancedRoutingExamplesApi.csproj", "{9E044DB1-B6BD-4B86-86E3-761B1B94156E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComprehensiveMiddlewareExampleApi", "ComprehensiveMiddlewareExampleApi\ComprehensiveMiddlewareExampleApi.csproj", "{C6FFD89F-2A00-4A56-B545-E8DA705836EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ECommerceWithRoutingAndMiddleware", "ECommerceWithRoutingAndMiddleware\ECommerceWithRoutingAndMiddleware.csproj", "{2D80BEF3-5F5C-47C4-BDC6-FD4FC8988B10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PerformanceOptimizationExampleApi", "PerformanceOptimizationExampleApi\PerformanceOptimizationExampleApi.csproj", "{279C2EF0-EC13-42F9-8D71-B19D696D252C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CachingStrategiesExampleApi", "CachingStrategiesExampleApi\CachingStrategiesExampleApi.csproj", "{1B6917D3-4E10-43E7-8272-9026493B1410}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E044DB1-B6BD-4B86-86E3-761B1B94156E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E044DB1-B6BD-4B86-86E3-761B1B94156E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E044DB1-B6BD-4B86-86E3-761B1B94156E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E044DB1-B6BD-4B86-86E3-761B1B94156E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6FFD89F-2A00-4A56-B545-E8DA705836EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6FFD89F-2A00-4A56-B545-E8DA705836EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6FFD89F-2A00-4A56-B545-E8DA705836EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6FFD89F-2A00-4A56-B545-E8DA705836EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D80BEF3-5F5C-47C4-BDC6-FD4FC8988B10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D80BEF3-5F5C-47C4-BDC6-FD4FC8988B10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D80BEF3-5F5C-47C4-BDC6-FD4FC8988B10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D80BEF3-5F5C-47C4-BDC6-FD4FC8988B10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{279C2EF0-EC13-42F9-8D71-B19D696D252C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{279C2EF0-EC13-42F9-8D71-B19D696D252C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{279C2EF0-EC13-42F9-8D71-B19D696D252C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{279C2EF0-EC13-42F9-8D71-B19D696D252C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B6917D3-4E10-43E7-8272-9026493B1410}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B6917D3-4E10-43E7-8272-9026493B1410}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B6917D3-4E10-43E7-8272-9026493B1410}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B6917D3-4E10-43E7-8272-9026493B1410}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
