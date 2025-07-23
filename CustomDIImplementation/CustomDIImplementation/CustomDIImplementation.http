@@ -1,0 +1,6 @@
+@CustomDIImplementation_HostAddress = http://localhost:5290
+
+GET {{CustomDIImplementation_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
