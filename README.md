@@ -333,9 +333,9 @@ Navigate to your specific area of interest:
 
 **Platform Links**
 
-- **Medium:** [Follow for regular updates](https://medium.com)
-- **GitHub:** [Explore projects and code examples](https://github.com)
-- **LinkedIn:** [Professional connections](https://linkedin.com)
+- **Medium:** [Follow for regular updates](https://medium.com/@bhargavkoya56)
+- **GitHub:** [Explore projects and code examples](https://github.com/bhargavkoya)
+- **LinkedIn:** [Professional connections](https://www.linkedin.com/in/bhargava-koya7/)
 
 **How to Engage**
 
